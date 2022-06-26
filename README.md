@@ -106,7 +106,40 @@
 	
    Ejercicio 2:
      Operaciones de arbol AVL:
-   
+     Insercion
+     -Insetaremos el 200 y pondremos al 100 como raiz
+     ![image](https://user-images.githubusercontent.com/87882802/175795896-10741892-ea06-49e7-9615-f8b8bcfd690d.png)
+     -Insertaremos al 300
+     ![image](https://user-images.githubusercontent.com/87882802/175795918-0dca098b-9e44-4e57-ae24-c335ab7566c7.png)
+     -Insertaremos al 400
+     ![image](https://user-images.githubusercontent.com/87882802/175795929-7046e662-eba2-42ac-aa1e-23131ba27e0d.png)
+     -Insertaremos al 500 y haremos una rotacion simple
+     ![image](https://user-images.githubusercontent.com/87882802/175795958-e41aa25b-bef5-4995-8a08-489fa1031a53.png)
+     ![image](https://user-images.githubusercontent.com/87882802/175795963-af676e59-2190-44ef-8f76-478f104c0f9a.png)    
+     -Insertaremos al 50
+     ![image](https://user-images.githubusercontent.com/87882802/175795967-72d0fc10-06f2-45d0-b196-a4548982f9a5.png)
+     -Insertaremos al 25 y haremos una rotacion simple
+     ![image](https://user-images.githubusercontent.com/87882802/175795978-a4b7d944-23e1-4824-9e78-ba1955a34313.png)
+     ![image](https://user-images.githubusercontent.com/87882802/175795983-3009e596-198a-4494-af1b-1ea9c0d936ba.png)
+     -Insertaremos el 350
+     ![image](https://user-images.githubusercontent.com/87882802/175795993-e7e47cf1-d82f-4b13-8ecd-e0c23518c19d.png)
+     -Insertaremos el 360 por lo que habra una rotacion doble del 375
+     ![image](https://user-images.githubusercontent.com/87882802/175796009-25a29944-e12c-4628-a882-4bb6e74db72f.png)
+     -Insertaremos el 355, y apra que halla un balance, rotaremos el 350
+     ![image](https://user-images.githubusercontent.com/87882802/175796020-e22eca61-e916-4158-9ce9-217a88c7612a.png)
+     ![image](https://user-images.githubusercontent.com/87882802/175796034-9f4e4da5-b043-4da8-9d96-0ed8f1c2b4d2.png)
+     -Insertaremos el 150
+     ![image](https://user-images.githubusercontent.com/87882802/175796080-5eadb699-efa4-4799-9d2e-d96ae4030ba1.png)
+     -Insertaremos el 175
+     ![image](https://user-images.githubusercontent.com/87882802/175796092-3c9ff752-d884-4bdf-bc4b-17627ccd08ad.png)
+     -Insertaremos el 120
+     ![image](https://user-images.githubusercontent.com/87882802/175796102-f17141b2-8634-40d3-98e9-1982380f718b.png)
+     -Insertaremos el 190 y haremos una rotacion doble
+     ![image](https://user-images.githubusercontent.com/87882802/175796110-254c051e-cedd-4adb-ba3b-d1ae2de8a4fb.png)
+     Resultado Final:
+     ![image](https://user-images.githubusercontent.com/87882802/175796146-413896cf-e49a-4066-96b9-dd9520baa9c8.png)
+     
+     
    Ejercicio 3:
      Arbol AVL:
      //Iniciaremos los datos
