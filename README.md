@@ -202,14 +202,14 @@
     
 ![image](https://user-images.githubusercontent.com/87882802/175798739-c2dece50-0663-40cc-a4c0-f30970376df7.png)
 
-    -Eliminaremos el 350 y como es raizel 190 hace una doble rotacion doble
+    -Eliminaremos el 350 y como es raiz el 190 hace una doble rotacion doble
     
-   ![image](https://user-images.githubusercontent.com/87882802/175798471-6e4833b6-2c5a-4614-a15f-d027b74919a2.png)
-   
+![image](https://user-images.githubusercontent.com/87882802/175798752-e2900145-76de-424d-9cc5-c3c045cf9284.png)   
+
    -Eliminaremos el 375
    
-   ![image](https://user-images.githubusercontent.com/87882802/175798480-26f5ac9d-178a-4e71-a6f0-f2e532b469fe.png)
-    
+![image](https://user-images.githubusercontent.com/87882802/175798756-e29d0450-b59e-4a20-b5d9-56863d1673d7.png)
+
     -Eliminaremos el 360 y el 150 hace una rotacion simple
     
    ![image](https://user-images.githubusercontent.com/87882802/175798489-b3a955bb-35c4-4363-9f1a-ec5c2ab715a7.png)
