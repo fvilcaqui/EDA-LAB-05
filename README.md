@@ -171,37 +171,37 @@
      
      Eliminacion:
     
-    -Primero eliminaremos el nodo 100 
-   ![image](https://user-images.githubusercontent.com/87882802/175798204-7fcb875d-8989-43b1-aaac-602036d153ec.png)
-    
-    -Luego eliminaremos el nodo 200
+    -Nodo Comienzo
+![image](https://user-images.githubusercontent.com/87882802/175798692-89dbeec2-7a05-4c9b-b136-17e66021a67e.png) 
    
-   ![image](https://user-images.githubusercontent.com/87882802/175798219-b3a4d3aa-c031-4fed-95a7-7ba94bfddf65.png)
+   -Luego eliminaremos el nodo 100
+   
+![image](https://user-images.githubusercontent.com/87882802/175798699-a4bec48c-3d2d-4733-bc62-f7e204e814a7.png)    
+    
+    -Eliminaremos el nodo 200
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798708-f456a396-9984-4add-a45e-64a60b89fe22.png)
     
     -Eliminaremos el nodo 300 y el 150 hace una rotacion doble
     
-   ![image](https://user-images.githubusercontent.com/87882802/175798338-0921cadf-9d5e-4dea-ab7e-238846d1eef4.png)
-    
+![image](https://user-images.githubusercontent.com/87882802/175798723-51f7fdb9-ab37-4948-840a-eb927295d30c.png)
+
     -Eliminaremos el nodo 400
     
-  ![image](https://user-images.githubusercontent.com/87882802/175798363-4e9e8ce5-585a-4e42-b01d-243d97ca3ae1.png)
+![image](https://user-images.githubusercontent.com/87882802/175798726-84927b01-2150-4874-aff9-0ec85f0721be.png)
+
+    -Eliminaremos el nodo  500 y el 360 hace una rotacion simple
     
-    -Eliminaremos el nodo 500 y el 360 hace una rotacion simple
-    
-   ![image](https://user-images.githubusercontent.com/87882802/175798379-5bbde572-2e85-4211-a3b9-0cc8c5e97789.png)
-    
-    -Eliminaremos el nodo  500
-    
-   ![image](https://user-images.githubusercontent.com/87882802/175798400-aa182267-ea5f-4bdf-9790-42f8c928cab0.png)
-    
+![image](https://user-images.githubusercontent.com/87882802/175798732-c697de4a-3468-438f-a747-2eb0b7d9844a.png)
+
     -Eliminaremos el nodo 50 y el 120 hace una rotacion simple
     
-   ![image](https://user-images.githubusercontent.com/87882802/175798434-ae43e472-afd2-4bed-b87d-5a0efa2be5d1.png)
-    
+![image](https://user-images.githubusercontent.com/87882802/175798734-2fd381c6-1fd4-4c22-a83b-612cb8951e5e.png)
+
     -Eliminaremos el 25
     
-   ![image](https://user-images.githubusercontent.com/87882802/175798460-f7f5c810-fad6-4972-bcff-7810ba0de26e.png)
-    
+![image](https://user-images.githubusercontent.com/87882802/175798739-c2dece50-0663-40cc-a4c0-f30970376df7.png)
+
     -Eliminaremos el 350 y como es raizel 190 hace una doble rotacion doble
     
    ![image](https://user-images.githubusercontent.com/87882802/175798471-6e4833b6-2c5a-4614-a15f-d027b74919a2.png)
