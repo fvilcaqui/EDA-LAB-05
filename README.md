@@ -105,52 +105,69 @@
 
 	
    Ejercicio 2:
+   
      Operaciones de arbol AVL:
+     
      Insercion
+     
      -Insetaremos el 200 y pondremos al 100 como raiz
-     ![image](https://user-images.githubusercontent.com/87882802/175795896-10741892-ea06-49e7-9615-f8b8bcfd690d.png)
+     
+  ![image](https://user-images.githubusercontent.com/87882802/175795896-10741892-ea06-49e7-9615-f8b8bcfd690d.png)
     
     -Insertaremos al 300
-     ![image](https://user-images.githubusercontent.com/87882802/175795918-0dca098b-9e44-4e57-ae24-c335ab7566c7.png)
+    
+  ![image](https://user-images.githubusercontent.com/87882802/175795918-0dca098b-9e44-4e57-ae24-c335ab7566c7.png)
      
     -Insertaremos al 400
-     ![image](https://user-images.githubusercontent.com/87882802/175795929-7046e662-eba2-42ac-aa1e-23131ba27e0d.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175795929-7046e662-eba2-42ac-aa1e-23131ba27e0d.png)
    
    -Insertaremos al 500 y haremos una rotacion simple
-     ![image](https://user-images.githubusercontent.com/87882802/175795958-e41aa25b-bef5-4995-8a08-489fa1031a53.png)
-     ![image](https://user-images.githubusercontent.com/87882802/175795963-af676e59-2190-44ef-8f76-478f104c0f9a.png)    
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175795958-e41aa25b-bef5-4995-8a08-489fa1031a53.png)
+   ![image](https://user-images.githubusercontent.com/87882802/175795963-af676e59-2190-44ef-8f76-478f104c0f9a.png)    
    
    -Insertaremos al 50
-     ![image](https://user-images.githubusercontent.com/87882802/175795967-72d0fc10-06f2-45d0-b196-a4548982f9a5.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175795967-72d0fc10-06f2-45d0-b196-a4548982f9a5.png)
    
    -Insertaremos al 25 y haremos una rotacion simple
-     ![image](https://user-images.githubusercontent.com/87882802/175795978-a4b7d944-23e1-4824-9e78-ba1955a34313.png)
-     ![image](https://user-images.githubusercontent.com/87882802/175795983-3009e596-198a-4494-af1b-1ea9c0d936ba.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175795978-a4b7d944-23e1-4824-9e78-ba1955a34313.png)
+   ![image](https://user-images.githubusercontent.com/87882802/175795983-3009e596-198a-4494-af1b-1ea9c0d936ba.png)
    
    -Insertaremos el 350
-     ![image](https://user-images.githubusercontent.com/87882802/175795993-e7e47cf1-d82f-4b13-8ecd-e0c23518c19d.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175795993-e7e47cf1-d82f-4b13-8ecd-e0c23518c19d.png)
    
    -Insertaremos el 360 por lo que habra una rotacion doble del 375
-     ![image](https://user-images.githubusercontent.com/87882802/175796009-25a29944-e12c-4628-a882-4bb6e74db72f.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796009-25a29944-e12c-4628-a882-4bb6e74db72f.png)
    
    -Insertaremos el 355, y apra que halla un balance, rotaremos el 350
-     ![image](https://user-images.githubusercontent.com/87882802/175796020-e22eca61-e916-4158-9ce9-217a88c7612a.png)
-     ![image](https://user-images.githubusercontent.com/87882802/175796034-9f4e4da5-b043-4da8-9d96-0ed8f1c2b4d2.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796020-e22eca61-e916-4158-9ce9-217a88c7612a.png)
+   ![image](https://user-images.githubusercontent.com/87882802/175796034-9f4e4da5-b043-4da8-9d96-0ed8f1c2b4d2.png)
    
    -Insertaremos el 150
-     ![image](https://user-images.githubusercontent.com/87882802/175796080-5eadb699-efa4-4799-9d2e-d96ae4030ba1.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796080-5eadb699-efa4-4799-9d2e-d96ae4030ba1.png)
    
    -Insertaremos el 175
-     ![image](https://user-images.githubusercontent.com/87882802/175796092-3c9ff752-d884-4bdf-bc4b-17627ccd08ad.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796092-3c9ff752-d884-4bdf-bc4b-17627ccd08ad.png)
     
    -Insertaremos el 120
-     ![image](https://user-images.githubusercontent.com/87882802/175796102-f17141b2-8634-40d3-98e9-1982380f718b.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796102-f17141b2-8634-40d3-98e9-1982380f718b.png)
   
    -Insertaremos el 190 y haremos una rotacion doble
-     ![image](https://user-images.githubusercontent.com/87882802/175796110-254c051e-cedd-4adb-ba3b-d1ae2de8a4fb.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175796110-254c051e-cedd-4adb-ba3b-d1ae2de8a4fb.png)
    
     Resultado Final:
-     ![image](https://user-images.githubusercontent.com/87882802/175796146-413896cf-e49a-4066-96b9-dd9520baa9c8.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175796146-413896cf-e49a-4066-96b9-dd9520baa9c8.png)
      
      Eliminacion:
     
@@ -158,48 +175,60 @@
    ![image](https://user-images.githubusercontent.com/87882802/175798204-7fcb875d-8989-43b1-aaac-602036d153ec.png)
     
     -Luego eliminaremos el nodo 200
-    ![image](https://user-images.githubusercontent.com/87882802/175798219-b3a4d3aa-c031-4fed-95a7-7ba94bfddf65.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175798219-b3a4d3aa-c031-4fed-95a7-7ba94bfddf65.png)
     
     -Eliminaremos el nodo 300 y el 150 hace una rotacion doble
-     ![image](https://user-images.githubusercontent.com/87882802/175798338-0921cadf-9d5e-4dea-ab7e-238846d1eef4.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798338-0921cadf-9d5e-4dea-ab7e-238846d1eef4.png)
     
     -Eliminaremos el nodo 400
-    ![image](https://user-images.githubusercontent.com/87882802/175798363-4e9e8ce5-585a-4e42-b01d-243d97ca3ae1.png)
+    
+  ![image](https://user-images.githubusercontent.com/87882802/175798363-4e9e8ce5-585a-4e42-b01d-243d97ca3ae1.png)
     
     -Eliminaremos el nodo 500 y el 360 hace una rotacion simple
-    ![image](https://user-images.githubusercontent.com/87882802/175798379-5bbde572-2e85-4211-a3b9-0cc8c5e97789.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798379-5bbde572-2e85-4211-a3b9-0cc8c5e97789.png)
     
     -Eliminaremos el nodo  500
-     ![image](https://user-images.githubusercontent.com/87882802/175798400-aa182267-ea5f-4bdf-9790-42f8c928cab0.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798400-aa182267-ea5f-4bdf-9790-42f8c928cab0.png)
     
     -Eliminaremos el nodo 50 y el 120 hace una rotacion simple
-    ![image](https://user-images.githubusercontent.com/87882802/175798434-ae43e472-afd2-4bed-b87d-5a0efa2be5d1.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798434-ae43e472-afd2-4bed-b87d-5a0efa2be5d1.png)
     
     -Eliminaremos el 25
-    ![image](https://user-images.githubusercontent.com/87882802/175798460-f7f5c810-fad6-4972-bcff-7810ba0de26e.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798460-f7f5c810-fad6-4972-bcff-7810ba0de26e.png)
     
     -Eliminaremos el 350 y como es raizel 190 hace una doble rotacion doble
-    ![image](https://user-images.githubusercontent.com/87882802/175798471-6e4833b6-2c5a-4614-a15f-d027b74919a2.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798471-6e4833b6-2c5a-4614-a15f-d027b74919a2.png)
    
    -Eliminaremos el 375
-    ![image](https://user-images.githubusercontent.com/87882802/175798480-26f5ac9d-178a-4e71-a6f0-f2e532b469fe.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175798480-26f5ac9d-178a-4e71-a6f0-f2e532b469fe.png)
     
     -Eliminaremos el 360 y el 150 hace una rotacion simple
-    ![image](https://user-images.githubusercontent.com/87882802/175798489-b3a955bb-35c4-4363-9f1a-ec5c2ab715a7.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798489-b3a955bb-35c4-4363-9f1a-ec5c2ab715a7.png)
     
     -Eliminaremos el 355
-    ![image](https://user-images.githubusercontent.com/87882802/175798495-e3bdc2a1-e21f-4c54-bbaa-b369e1a5c351.png)
+    
+   ![image](https://user-images.githubusercontent.com/87882802/175798495-e3bdc2a1-e21f-4c54-bbaa-b369e1a5c351.png)
    
    -Eliminaremos el 150 y el 175 hace una rotacion doble
-    ![image](https://user-images.githubusercontent.com/87882802/175798523-a8b4c051-e94f-43c3-a0ea-55f22552e3de.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175798523-a8b4c051-e94f-43c3-a0ea-55f22552e3de.png)
    
    -Eliminaremos el 175
-    ![image](https://user-images.githubusercontent.com/87882802/175798538-e9950686-3f4e-4062-ade0-6c6e372d9a5d.png)
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175798538-e9950686-3f4e-4062-ade0-6c6e372d9a5d.png)
     
    -Por ultimo eliminamos el 120 y el 190 hace una rotacion simple
-    ![image](https://user-images.githubusercontent.com/87882802/175798552-98b29c50-e78a-4118-8a76-09db7682279d.png)
-
-
+   
+   ![image](https://user-images.githubusercontent.com/87882802/175798552-98b29c50-e78a-4118-8a76-09db7682279d.png)
 
      
    Ejercicio 3:
